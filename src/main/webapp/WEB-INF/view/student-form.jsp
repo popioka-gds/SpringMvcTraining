@@ -12,7 +12,7 @@
 
 	<form:form action="processForm" modelAttribute="student">
 	
-		First name : <form:input path="firstName" />
+		First name: <form:input path="firstName" />
 		
 		<br><br>
 	
